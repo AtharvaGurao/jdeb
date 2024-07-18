@@ -1,14 +1,1 @@
-.DS_Store
-.classpath
-.project
-.settings
-target
-eclipse
-dependency-reduced-pom.xml
-*.iml
-*.iws
-*.ipr
-*.psd
-/.idea
-.release
-*~
+
